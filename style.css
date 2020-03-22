@@ -33,8 +33,10 @@ body{
 
 .slide{
 	width: 100%;
-	align-items: center;
 	background-color: blue;
+}
+.banner{
+	display: none;
 }
 .left-margin
 {
